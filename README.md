@@ -1,6 +1,9 @@
 # 💫 About Me:
 I combine my domain expertise as a personal trainer with modern software development practices. My approach is simple: **understand the process, optimize the logic, and write clean, maintainable code.** I don't just build apps; I solve real-world industry problems I've experienced firsthand.<br><br>- 🔭 I’m currently working on [PTMS](https://github.com/MarekMaro8/ptms) — a robust backend for personal trainer management.<br>- 🛠 I specialize in Java 17+, Spring Boot 3, and Cloud Infrastrucure<br>- ⚙️ I utilize Docker and GitHub Actions to ensure smooth CI/CD workflows.<br>- 🎯 My goal is to deliver high-quality, secure REST APIs that provide real value to users.
+*I am currently looking for new professional opportunities** as a Java / Backend Developer.
 
+### 💼 Career Status
+- 👀 **I am currently looking for new professional opportunities** as a Java / Backend Developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MarekKuzbinski)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marek.kuzbinski8@gmail.com) 
